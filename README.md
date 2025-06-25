@@ -1,0 +1,2 @@
+# laravel-search-demo
+optional
